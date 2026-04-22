@@ -1,10 +1,5 @@
 # Courses Demo Page (Angular + Node.js + Mongo DB)
 
-### **Link to the demo page:** https://kaya234.github.io/angular-mongodb
-
-### **Link to the API:** https://far-lava-calendula.glitch.me/courses
-
-
 Courses Demo Page project showcases a simple yet effective course management system using **Angular** for the **front-end** and **Node.js** and **Mongo DB** for the **back-end**.\
 It provides an intuitive interface to browse through a collection of courses, filter them based on specific category, and search for relevant ones based on name or category. Each course listing includes a brief details, thumbnail, and a button to view more information.
 
